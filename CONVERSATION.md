@@ -45,3 +45,22 @@ for fruit in fruits:
 ```
 
 What is the loop variable in this example?
+
+---
+## 2026-10-06 15:03, in .
+
+**Me:** how to add a string in python
+
+**Tutor:**
+
+Concatenation is the concept.
+
+```python
+# TODO: create two strings and join them
+first = "hello"
+second = "world"
+combined = # TODO: write the operator that joins the two strings
+print(combined)
+```
+
+What is the operator that joins two strings together?
