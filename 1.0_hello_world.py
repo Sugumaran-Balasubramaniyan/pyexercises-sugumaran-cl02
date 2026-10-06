@@ -30,3 +30,10 @@ DELIVERABLE
 
 # Your code below
 print("Sugumaran")
+print("Sugumaran")
+print("Sugumaran")
+print("Sugumaran")
+
+print("with for loop")
+for i in range(1,10):
+    print("Sugumaran")
