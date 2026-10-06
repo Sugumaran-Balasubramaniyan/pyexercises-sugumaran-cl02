@@ -1,0 +1,28 @@
+# Conversation with the AI
+
+Written automatically by `tutor.py`. Add your own notes under any entry: what you tried, what broke, what you changed. Those notes are what is graded.
+
+---
+## 2026-10-06 13:58, in .
+
+**Me:** how to print a text or string in python
+
+**Tutor:**
+
+Printing a string in Python is done with the `print()` function.
+
+```python
+text = "Hello, world!"
+print(text)
+```
+
+What is the name of the function used to display text?
+
+---
+## 2026-10-06 14:00, in .
+
+**Me:** what is python
+
+**Tutor:**
+
+Refused, off topic.
