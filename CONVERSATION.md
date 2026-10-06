@@ -26,3 +26,22 @@ What is the name of the function used to display text?
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-06 14:19, in .
+
+**Me:** how to write a for loop in python
+
+**Tutor:**
+
+A for loop iterates over a sequence (list, string, range, etc.) and runs a block of code for each item.
+
+```python
+# Example: print each fruit in a list
+fruits = ["apple", "banana", "cherry"]
+
+for fruit in fruits:
+    print(fruit)  # TODO: Replace with your own action
+```
+
+What is the loop variable in this example?
