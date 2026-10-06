@@ -64,3 +64,57 @@ print(combined)
 ```
 
 What is the operator that joins two strings together?
+
+---
+## 2026-10-06 15:07, in .
+
+**Me:** write a for loop in python
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-06 15:26, in .
+
+**Me:** p
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-06 15:26, in .
+
+**Me:** asd
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-06 15:26, in .
+
+**Me:** dsafh
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-06 15:26, in .
+
+**Me:** how to add two variables in python
+
+**Tutor:**
+
+Adding two variables in Python is done with the `+` operator.
+
+```python
+# TODO: replace alpha and beta with your variables
+a = 5
+b = 3
+result = a + b
+```
+
+What is the name of the operator used to add two numbers?
