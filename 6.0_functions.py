@@ -71,7 +71,7 @@ print(sum)
 print(sum_without_output)
 
 
-num1 = float(input("Enter the first number: "))
+num1 = float(input("Enter a first number: "))
 num2 = float(input("Enter the second number: "))
 result = add_numbers(num1, num2)
 print("Sum:", result)
