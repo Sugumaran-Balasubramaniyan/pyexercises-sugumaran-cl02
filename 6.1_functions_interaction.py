@@ -36,13 +36,13 @@ DELIVERABLE
 
 # Your code below
 def is_positive(num):
-    return 5 > 0
+    return num > 0
 
 def is_negative(num):
     return num < 0
 
 def is_zero(num):
-    return 5 == 0
+    return num == 0
 
 def is_even(num):
     return num % 2 == 0
@@ -60,4 +60,4 @@ def detailed_message(num):
         return "The number is odd."
 
 number = 5
-print(detailed_message(5))
+print(detailed_message(number))
