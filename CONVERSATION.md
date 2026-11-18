@@ -140,3 +140,20 @@ for number in numbers:
 ```
 
 What is the keyword that starts a loop over a sequence?
+
+---
+## 2026-11-18 13:05, in .
+
+**Me:** how to write a function in python
+
+**Tutor:**
+
+Writing a function in Python means defining a reusable block of code.
+
+```python
+def greet(name):
+    # TODO: return a greeting string using the name argument
+    pass
+```
+
+What is the keyword used to define a function in Python?
