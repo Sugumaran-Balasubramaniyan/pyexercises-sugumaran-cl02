@@ -118,3 +118,25 @@ result = a + b
 ```
 
 What is the name of the operator used to add two numbers?
+
+---
+## 2026-11-18 12:37, in .
+
+**Me:** how to write loops in python
+
+**Tutor:**
+
+A loop repeats code for each item in a sequence.
+
+Pattern: using a `for` loop on a list of numbers.
+
+```python
+# TODO: replace the list with your own data
+numbers = [2, 5, 8]
+
+# TODO: write a loop that prints each number
+for number in numbers:
+    print(number)
+```
+
+What is the keyword that starts a loop over a sequence?
